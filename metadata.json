@@ -1,0 +1,6 @@
+{
+  "name": "Maruf Family Vault & Legal AI",
+  "description": "Bilingual Family Portfolio, Encrypted Vault, Muslim Inheritance Calculator, e-Namjari Land Sale Assistant and AI Legal Advisor for Maruf's Family (মারুফের পরিবার ডিজিটাল ভল্ট ও আইনি সহায়ক).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
